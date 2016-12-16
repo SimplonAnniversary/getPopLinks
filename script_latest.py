@@ -1,59 +1,44 @@
 import urllib.request
 from bs4 import BeautifulSoup
 import re
+import os
 import time
 import progressbar
 
-#html = urlopen("https://www.poparchiefgroningen.nl/podia/simplon/view")
+# Fucntion to get links from html code.
+
 def getLinks():
-    html = open("html.txt")
-    bsObj = BeautifulSoup(html.read(), "lxml")
-    
-    # print("Print all Headers")
-    # print (bsObj)
-    print("Print all item-image objects")
-    imageList = bsObj.findAll("div", {"class":"item-image"})
-    # print(dir(imageList))
-    # imageList = bsObj.findAll("div", style=re.compile("*\/artwork\/*"))
-    # pattern = re.compile("*\/artwork\/*\.jpg$")
-    # pattern.search(bsObj)
-    x = 0
-    aList = []
-    for image in imageList:
-        if "ab" in image["style"]:     # has "ab" in filename (ab1023...jpg)
-            x = x  + 1
-            a = image["style"]        # put style in variable
-            a_strip = a[22:99]
-            aList.append(a_strip)
-            # print(str(x)+": "+a_strip)
+    html = open("html.txt")                                                            # List of links
+    bsObj = BeautifulSoup(html.read(), "lxml")                                         # Beautify HTML with BS4
+    imageList = bsObj.findAll("div", {"class":"item-image"})                           # Get only all with class 'item-image'
+    x = 0                                                                              # Iterator for filenames and stuff.
+    aList = []                                                                         # Make a list   
+    for image in imageList:                                                            # For every images in the list
+        if "ab" in image["style"]:                                                     # Only if has "ab" in filename (ab1023...jpg)
+            x = x  + 1                                                                 # Increment file iterator
+            a = image["style"]                                                         # Put style attribute in string
+            a_strip = a[22:99]                                                         # Get only this part
+            aList.append(a_strip)                                                      # Add to list
     return aList
         
-            #            if a is not None:
-#                print(a[22:99])           # get the right position and amount of characters - selection
+
+n = 0                                                                                  # Iterator
+strLength = len(getLinks())                                                            # Store length of list of links
+path = "images/"                                                                       # Directory for images
+bar = progressbar.ProgressBar(max_value=strLength,redirect_stdout=True)                # Create an instace of ProgressBar
+
+
+print(str(strLength)+" Objects")                                                       # Print number of items in list
+print("Checking or creating 'images/'..")                                              
+os.makedirs(path, exist_ok=True)                                                       # Check for 'images/' 
+
+
+
+for a in getLinks():                                                                   # For every image in return of getLinks()
+    url = a 
+    urllib.request.urlretrieve(url, path + str(n) + '.jpg')                            # Get image
+    n = n + 1                                                                          # Iterate n (+1)
+    print("Downloading " + path  + str(n)+".jpg")                                      # Output to user
+    bar.update(n)                                                                      # Update progress bar..
+
     
-
-
-n = 0
-strLength = len(getLinks())
-bar = progressbar.ProgressBar(max_value=strLength,redirect_stdout=True)
-
-
-print(str(strLength)+" Objects")
-
-for a in getLinks():
-    url = a
-    # image = url.rsplit('/', 1)[1]
-    urllib.request.urlretrieve(url, str(n)+'.jpg')
-    n = n + 1
-    print("Downloading "+str(n)+".jpg")
-    bar.update(n)
-
-    
-# print("type getLinks: "+type(getLinks()))
-# print(dir(getLinks()))
-
-# print("type a: "+type(getLinks()))
-# print("dir a: " +(a))
-
-
-
