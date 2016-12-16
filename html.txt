@@ -1,0 +1,1747 @@
+<html xmlns="http://www.w3.org/1999/xhtml" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="nl"><head>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+            <link rel="woff" type="text/css" media="screen" href="++resource++poparchief.theme.stylesheets/LQ7WLTaITDg4OSRuOZCpsxsxEYwM7FgeyaSgU71cLG0.woff">
+        
+            <base href="https://www.poparchiefgroningen.nl/podia/simplon/"><!--[if lt IE 7]></base><![endif]-->
+        
+
+        
+            
+  
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.poparchiefgroningen.nl/portal_css/Poparchief%20Theme/base-cachekey5157.css">
+    <style type="text/css" media="all">@import url(https://www.poparchiefgroningen.nl/portal_css/Poparchief%20Theme/resourcetinymce.stylesheetstinymce-cachekey0284.css);</style>
+    <link rel="stylesheet" type="text/css" href="https://www.poparchiefgroningen.nl/portal_css/Poparchief%20Theme/print-cachekey6842.css">
+        <!--[if lt IE 8]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.poparchiefgroningen.nl/portal_css/Poparchief%20Theme/IEFixes-cachekey0579.css" />
+        <![endif]-->
+    
+    <style type="text/css" media="screen">@import url(https://www.poparchiefgroningen.nl/portal_css/Poparchief%20Theme/jquery.fancybox-cachekey1315.css);</style>
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.poparchiefgroningen.nl/portal_css/Poparchief%20Theme/resourcejquery-ui-themessunburstjqueryui-cachekey8998.css">
+    <style type="text/css" media="screen">@import url(https://www.poparchiefgroningen.nl/portal_css/Poparchief%20Theme/maps-cachekey2288.css);</style>
+    <style type="text/css" media="screen">@import url(https://www.poparchiefgroningen.nl/portal_css/Poparchief%20Theme/resourcepoparchief.theme.stylesheetsmain-cachekey1068.css);</style>
+        <!--[if lt IE 9]>    
+    
+    <link rel="stylesheet" type="text/css" media="screen" href="https://www.poparchiefgroningen.nl/portal_css/Poparchief%20Theme/resourcepoparchief.theme.stylesheetsiefixes-cachekey3268.css" />
+        <![endif]-->
+    
+    <style type="text/css" media="all">@import url(https://www.poparchiefgroningen.nl/portal_css/Poparchief%20Theme/resourceProducts.PAG.stylesheetsmain-cachekey5498.css);</style>
+    <link rel="stylesheet" type="text/css" media="all" href="https://www.poparchiefgroningen.nl/portal_css/Poparchief%20Theme/ploneCustom-cachekey6595.css">
+
+  
+    <link rel="stylesheet" data-rel="kinetic-stylesheet" type="text/kss" href="https://www.poparchiefgroningen.nl/portal_kss/Poparchief%20Theme/at-cachekey1079.kss">
+  
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.poparchiefgroningen.nl/portal_javascripts/Poparchief%20Theme/jquery-cachekey5735.js"></script>
+    <script type="text/javascript" src="https://www.poparchiefgroningen.nl/portal_javascripts/Poparchief%20Theme/resourcejquery-uijquery.ui.core.min-cachekey0249.js"></script>
+    <script type="text/javascript" src="https://www.poparchiefgroningen.nl/portal_javascripts/Poparchief%20Theme/resourcejquery-ui-i18n-cachekey1569.js"></script>
+    <script type="text/javascript" src="https://www.poparchiefgroningen.nl/portal_javascripts/Poparchief%20Theme/maps-config-cachekey1076.js"></script><script type="text/javascript" src="http://maps.google.com/maps?file=api&amp;v=2&amp;key="></script>
+    <script type="text/javascript" src="https://www.poparchiefgroningen.nl/portal_javascripts/Poparchief%20Theme/resourcecollective.flowplayerflowplayer.min-cachekey4299.js"></script>
+    <script type="text/javascript" src="https://www.poparchiefgroningen.nl/portal_javascripts/Poparchief%20Theme/resourcepoparchief.theme.javascriptsjquery.cycle.min-cachekey8905.js"></script>
+    <script type="text/javascript" src="https://www.poparchiefgroningen.nl/portal_javascripts/Poparchief%20Theme/resourcepoparchief.theme.javascriptsjquery.imgCenter.minified-cachekey5355.js"></script>
+    <script type="text/javascript" src="https://www.poparchiefgroningen.nl/portal_javascripts/Poparchief%20Theme/resourcepoparchief.theme.javascriptspoparchief-cachekey8987.js"></script>
+    <script type="text/javascript" src="https://www.poparchiefgroningen.nl/portal_javascripts/Poparchief%20Theme/resourcepoparchief.theme.javascriptspoparchief_zoeken-cachekey3152.js"></script>
+
+
+
+
+<meta content="Legendarisch poppodium dat veel problemen kent, maar steeds het hoofd boven water houdt." name="DC.description"><meta content="Legendarisch poppodium dat veel problemen kent, maar steeds het hoofd boven water houdt." name="description"><meta content="text/html" name="DC.format"><meta content="Podium" name="DC.type"><meta content="2015-11-27T15:13:09+01:00" name="DC.date.modified"><meta content="2012-01-05T17:24:18+01:00" name="DC.date.created"><meta content="nl" name="DC.language">
+<link rel="alternate" data-kss-base-url="kss-base-url" href="https://www.poparchiefgroningen.nl/podia/simplon/">
+<title>Simplon — Poparchief Groningen</title>
+            
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://www.poparchiefgroningen.nl/favicon.ico">
+    <link rel="apple-touch-icon" href="https://www.poparchiefgroningen.nl/touch_icon.png">
+
+
+<script type="text/javascript">
+        jQuery(function($){
+            $.datepicker.setDefaults(
+                jQuery.extend($.datepicker.regional['nl'],
+                {dateFormat: 'dd-mm-yy'}));
+        });
+        </script>
+
+
+
+
+    <link rel="search" href="https://www.poparchiefgroningen.nl/@@search" title="Doorzoek deze site">
+
+
+
+            
+            
+            
+            
+            
+
+            <meta name="viewport" content="width=device-width, initial-scale=0.6666, maximum-scale=1.0, minimum-scale=0.6666">
+            <meta name="generator" content="Plone - http://plone.org">
+        
+        <style type="text/css" media="print">.dropShadow{visibility:hidden;}</style><script>try {  for(var lastpass_iter=0; lastpass_iter < document.forms.length; lastpass_iter++){    var lastpass_f = document.forms[lastpass_iter];    if(typeof(lastpass_f.lpsubmitorig)=="undefined"){      if (typeof(lastpass_f.submit) == "function") {        lastpass_f.lpsubmitorig = lastpass_f.submit;        lastpass_f.submit = function(){          var form = this;          try {            if (document.documentElement && 'createEvent' in document)            {              var forms = document.getElementsByTagName('form');              for (var i=0 ; i<forms.length ; ++i)                if (forms[i]==form)                {                  var element = document.createElement('lpformsubmitdataelement');                  element.setAttribute('formnum',i);                  element.setAttribute('from','submithook');                  document.documentElement.appendChild(element);                  var evt = document.createEvent('Events');                  evt.initEvent('lpformsubmit',true,false);                  element.dispatchEvent(evt);                  break;                }            }          } catch (e) {}          try {            form.lpsubmitorig();          } catch (e) {}        }      }    }  }} catch (e) {}</script><script>try {  for(var lastpass_iter=0; lastpass_iter < document.forms.length; lastpass_iter++){    var lastpass_f = document.forms[lastpass_iter];    if(typeof(lastpass_f.lpsubmitorig)=="undefined"){      if (typeof(lastpass_f.submit) == "function") {        lastpass_f.lpsubmitorig = lastpass_f.submit;        lastpass_f.submit = function(){          var form = this;          try {            if (document.documentElement && 'createEvent' in document)            {              var forms = document.getElementsByTagName('form');              for (var i=0 ; i<forms.length ; ++i)                if (forms[i]==form)                {                  var element = document.createElement('lpformsubmitdataelement');                  element.setAttribute('formnum',i);                  element.setAttribute('from','submithook');                  document.documentElement.appendChild(element);                  var evt = document.createEvent('Events');                  evt.initEvent('lpformsubmit',true,false);                  element.dispatchEvent(evt);                  break;                }            }          } catch (e) {}          try {            form.lpsubmitorig();          } catch (e) {}        }      }    }  }} catch (e) {}</script></head>
+
+        <body class="template-base_view portaltype-venue section-podia" dir="ltr">
+
+            <div id="visual-portal-wrapper">
+                <div id="portal-top" class="row">
+                    <div id="portal-header">
+    <a id="portal-logo" title="Poparchief Groningen" accesskey="1" href="https://www.poparchiefgroningen.nl">
+    <img src="https://www.poparchiefgroningen.nl/logo.png" alt="" title="" width="272" height="110"></a>
+
+<p class="hiddenStructure">
+  <a accesskey="2" href="https://www.poparchiefgroningen.nl/podia/simplon/view#content">Ga naar inhoud.</a> |
+
+  <a accesskey="6" href="https://www.poparchiefgroningen.nl/podia/simplon/view#portlet-navigation-tree">Ga naar navigatie</a>
+</p>
+
+<div id="portal-personaltools-wrapper">
+
+<h5 class="hiddenStructure">Persoonlijke hulpmiddelen</h5>
+
+
+
+<ul class="actionMenu deactivated" id="portal-personaltools">
+  <li id="anon-personalbar">
+    
+        <a href="https://www.poparchiefgroningen.nl/login" id="personaltools-login" rel="#pb_1" class="link-overlay" style="cursor: pointer;">Inloggen</a>
+    
+  </li>
+</ul>
+
+</div>
+
+
+<ul id="portal-languageselector">
+    
+    <li class="currentLanguage language-nl">
+        <a href="https://www.poparchiefgroningen.nl/podia/simplon/view?set_language=nl" title="Nederlands">Nederlands</a>
+    </li>
+    
+    
+    <li class="language-en">
+        <a href="https://www.poparchiefgroningen.nl/Venues/simplon/view?set_language=en" title="English">English</a>
+    </li>
+    
+</ul>
+
+
+<div id="poparchief-social-media">
+
+  
+
+      
+
+      
+          
+    
+  
+
+      
+
+      <a href="http://www.facebook.com/pages/Poparchief-Groningen/130135383769673" target="_blank">
+              <img alt="Poparchief Groningen op facebook" title="Poparchief Groningen op facebook" src="https://www.poparchiefgroningen.nl/++resource++poparchief.theme.images/facebook_24x24.png">
+          </a>
+          
+    
+  
+
+      
+
+      
+          
+    
+  
+
+      
+
+      
+          
+    
+  
+
+      
+
+      
+          
+    
+</div>
+
+</div>
+
+                </div>
+                <div id="pag-below-header">
+                    <div class="pag-columns-wrapper">
+                        
+    <h5 class="hiddenStructure">Secties</h5>
+
+    <ul id="portal-globalnav">
+        <li id="portaltab-index_html" class="plain">
+           <a href="https://www.poparchiefgroningen.nl" title="">Home</a>
+            </li>
+        
+        <li id="portaltab-news" class="plain">
+           <a href="https://www.poparchiefgroningen.nl/news" title="Nieuws van poparchiefgroningen">Nieuws</a>
+            </li>
+        
+        <li id="portaltab-events" class="plain">
+           <a href="https://www.poparchiefgroningen.nl/events" title="Agenda van poparchiefgroningen">Agenda</a>
+            </li>
+        
+        <li id="portaltab-bands" class="plain">
+           <a href="https://www.poparchiefgroningen.nl/bands" title="Alle bestaande en gestopte (solo-)acts met een eigen profiel uit heden en verleden van stad en provincie Groningen. Zoek op naam van de act; filter op plaats, status en periode.">Acts</a>
+            </li>
+        
+        <li id="portaltab-personen" class="plain">
+           <a href="https://www.poparchiefgroningen.nl/personen" title="Alle personen met een eigen profielpagina op onze website. Zoek op voor-/achter- of bijnaam; filter op toegekende 'rol' van een persoon op de website (linkerkolom). Er kan maar op 1 rol per keer worden gefilterd.">Personen</a>
+            </li>
+        
+        <li id="portaltab-podia" class="selected">
+           <a href="https://www.poparchiefgroningen.nl/podia" title="Alle bestaande en verdwenen podia met een eigen profiel uit stad en provincie Groningen. Zoek op naam van het podium; filter op plaats, status en periode.">Podia</a>
+            </li>
+        
+        <li id="portaltab-festivals" class="plain">
+           <a href="https://www.poparchiefgroningen.nl/festivals" title="Alle bestaande en verdwenen festivals met een eigen profiel uit stad en provincie Groningen. Zoek op naam van het festival; filter op plaats, status en periode.">Festivals</a>
+            </li>
+        
+        <li id="portaltab-labels" class="plain">
+           <a href="https://www.poparchiefgroningen.nl/labels" title="Alle bestaande en verdwenen muzieklabels met een eigen profiel uit stad en provincie Groningen. Zoek op naam van het label; filter op plaats, status en periode.">Labels</a>
+            </li>
+        
+        <li id="portaltab-overig" class="plain">
+           <a href="https://www.poparchiefgroningen.nl/overig" title="Alle profielen, die vallen buiten de categorieën acts, personen, podia, festivals, labels en discografie. Het gaat zowel om bestaande als reeds tot het verleden behorende organisaties, instanties, bedrijven etc. Zoek op naam; filter op plaats, status en periode.">Overig</a>
+            </li>
+        
+        <li id="portaltab-afbeeldingen" class="plain">
+           <a href="https://www.poparchiefgroningen.nl/afbeeldingen" title="Een overzicht van alle op deze website geplaatste afbeeldingen, onderverdeeld in onderstaande mappen.">Afbeeldingen</a>
+            </li>
+        
+        <li id="portaltab-discografieen" class="plain">
+           <a href="https://www.poparchiefgroningen.nl/discografieen" title="Overzicht van alle op de website vermelde geluidsdragers.">Discografie</a>
+            </li>
+        
+        <li id="portaltab-over-poparchief" class="plain">
+           <a href="https://www.poparchiefgroningen.nl/over-poparchief" title="Poparchief Groningen komt voort uit een samenwerking tussen meerdere partners.">Over Poparchief</a>
+            </li>
+        
+    </ul>
+
+                    </div>
+                </div>
+
+                <div id="portal-columns" class="row">
+                    
+                        <div id="portal-column-one" class="cell width-1:4 position-0">
+                            
+                                
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e74656e745f747970650a56656e75650a706f72746c65742e4d61696e696d616765" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e74656e745f747970650a56656e75650a706f72746c65742e4d61696e696d616765"><dl class="portlet portletMainimagePortlet">
+    <div class="mainimage" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/fotos/logosimplon.jpg/@@images/image/mini)">
+
+      <a href="https://www.poparchiefgroningen.nl/afbeeldingen/fotos/logosimplon.jpg/preview_image"></a> 
+    </div>
+    
+
+</dl>
+</div>
+
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e74656e745f747970650a56656e75650a706f72746c65742e53686f7274696e666f" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e74656e745f747970650a56656e75650a706f72746c65742e53686f7274696e666f"><dl class="portlet portletShortinfoPortlet">
+
+  <dt class="portletHeader">
+     <h3 class="shortinfo-header">Overzicht</h3> 
+  </dt>
+
+    <dd class="short-info">
+    
+          
+    
+    <div class="periode">
+      <span class="label">Periode:</span>
+      
+      1977 
+       
+      -      
+      
+      
+        
+      <span>nu</span>  
+
+    </div>    
+  
+    
+   <div class="place">
+     
+     <span class="label">Plaats(en):</span> 
+     <span>Groningen</span>
+    </div>
+  
+    
+    <div class="adres">
+      <span class="label">Adres:</span>
+      Boterdiep 69
+    </div>
+  
+    
+   <div class="status">
+     <span class="label">Status:</span>
+     
+     <span>actief</span>
+   </div>
+   
+  
+        
+    </dd>
+    
+</dl>
+</div>
+
+<div id="portletwrapper-706c6f6e652e6c656674636f6c756d6e0a636f6e74656e745f747970650a56656e75650a706f72746c65742e5a6f656b66696c74657273" class="portletWrapper kssattr-portlethash-706c6f6e652e6c656674636f6c756d6e0a636f6e74656e745f747970650a56656e75650a706f72746c65742e5a6f656b66696c74657273"><dl class="portlet portletZoekFilters">
+    <form id="zoek-filters-form" action="https://www.poparchiefgroningen.nl/@@zoek-resultaten" method="get">
+
+        <input id="filter-title" name="_filter_sort_on" value="modified" type="hidden">
+
+        <dt class="portletHeader">                                                   
+          <h3 class="zoek-header">Zoek in site</h3>                                                                     
+        </dt>  
+
+        <dd class="portletItem odd">
+            <input id="filter-title" size="10" name="_filter_title" type="text">
+            <div class="uitgebreid-zoeken">
+              <a href="https://www.poparchiefgroningen.nl/@@zoek-resultaten">Uitgebreid zoeken</a>
+            </div>
+        </dd>
+
+        
+
+
+       
+    </form>
+</dl>
+</div>
+
+
+
+
+                            
+                        </div>
+
+                    
+                    <div id="portal-column-content" class="cell width-3:4 position-1:4">
+
+                        <div id="viewlet-above-content"><div id="portal-breadcrumbs">
+
+    <span id="breadcrumbs-you-are-here">U bent hier:</span>
+    <span id="breadcrumbs-home">
+        <a href="https://www.poparchiefgroningen.nl">Home</a>
+        <span class="breadcrumbSeparator">
+            ›
+            
+        </span>
+    </span>
+    <span id="breadcrumbs-1" dir="ltr">
+        
+            <a href="https://www.poparchiefgroningen.nl/podia">Podia</a>
+            <span class="breadcrumbSeparator">
+                ›
+                
+            </span>
+            
+         
+    </span>
+    <span id="breadcrumbs-2" dir="ltr">
+        
+            
+            
+            <span id="breadcrumbs-current">Simplon</span>
+         
+    </span>
+
+</div>
+</div>
+
+                        
+                            <div class="">
+
+                                
+
+                                
+
+    <dl class="portalMessage info" id="kssPortalMessage" style="display:none">
+        <dt>Info</dt>
+        <dd></dd>
+    </dl>
+
+
+
+                                
+                                    <div id="content">
+
+                                        
+
+                                        
+            
+            <h1 id="category-item-title">Simplon</h1>
+             
+
+
+            
+                <div id="category-item-submenu">
+    <ul class="submenu-list">
+        <li class="submenu-item">
+            <a href="https://www.poparchiefgroningen.nl/podia/simplon/@@biografie" class="" title="Biografie">Biografie</a>
+
+        </li>
+        <li class="submenu-item">
+            <a href="https://www.poparchiefgroningen.nl/podia/simplon/@@edities" title="Per jaar" class="">Per jaar</a>
+
+        </li>
+        <li class="submenu-item">
+            <a href="https://www.poparchiefgroningen.nl/podia/simplon/@@discografie" title="Discografie">Discografie</a>
+
+        </li>
+        <li class="submenu-item">
+            <a href="https://www.poparchiefgroningen.nl/podia/simplon/@@media" title="Afbeeldingen" class="active">Afbeeldingen</a>
+
+        </li>
+        <li class="submenu-item">
+            <a href="https://www.poparchiefgroningen.nl/podia/simplon/@@map" title="Map">Map</a>
+
+        </li>
+        <li class="submenu-item">
+            <a href="https://www.poparchiefgroningen.nl/podia/simplon/@@reageren" title="Reageren">Reageren</a>
+
+        </li>
+    </ul>
+</div>
+            
+
+            <div id="category-item-content"><div id="category-item-content">
+                
+
+        <ul class="tabs">
+            <li><a href="#" class="">Fotos</a></li>
+            <li><a href="#" class="current">Artwork</a></li>
+            <li><a href="#">Overige</a></li>
+        </ul>
+        <div class="panes">
+            <span id="fotos" style="display: none;">
+                
+                    <h2>Fotos</h2>
+                   <div class="pag-zoek-list">
+                    
+    
+      <div class="pag-zoek-item pag-Photo">
+        
+        <a class="pag-zoek-item-inner" alt="Dik Smit als programmeur Simplon - foto" href="https://www.poparchiefgroningen.nl/afbeeldingen/fotos/2410-21320.jpg/preview_image" rel="gallery1" title="Photo">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/fotos/2410-21320.jpg/image_thumb)"></div> 
+            <div>Dik Smit als programmeur Simplon - foto</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Photo">
+        
+        <a class="pag-zoek-item-inner" alt="Simplon foto zwart wit" href="https://www.poparchiefgroningen.nl/afbeeldingen/fotos/2410-26976.jpg/preview_image" rel="gallery1" title="Photo">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/fotos/2410-26976.jpg/image_thumb)"></div> 
+            <div>Simplon foto zwart wit</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Photo">
+        
+        <a class="pag-zoek-item-inner" alt="Simplon foto kleur" href="https://www.poparchiefgroningen.nl/afbeeldingen/fotos/2410-26977.jpg/preview_image" rel="gallery1" title="Photo">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/fotos/2410-26977.jpg/image_thumb)"></div> 
+            <div>Simplon foto kleur</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Photo">
+        
+        <a class="pag-zoek-item-inner" alt="Simplon" href="https://www.poparchiefgroningen.nl/podia/simplon/simplon/preview_image" rel="gallery1" title="Photo">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/podia/simplon/simplon/image_thumb)"></div> 
+            <div>Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Photo">
+        
+        <a class="pag-zoek-item-inner" alt="Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/fotos/simplon/preview_image" rel="gallery1" title="Photo">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/fotos/simplon/image_thumb)"></div> 
+            <div>Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Photo">
+        
+        <a class="pag-zoek-item-inner" alt="Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/fotos/simplon-1/preview_image" rel="gallery1" title="Photo">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/fotos/simplon-1/image_thumb)"></div> 
+            <div>Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Photo">
+        
+        <a class="pag-zoek-item-inner" alt="Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/fotos/simplon-2/preview_image" rel="gallery1" title="Photo">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/fotos/simplon-2/image_thumb)"></div> 
+            <div>Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Photo">
+        
+        <a class="pag-zoek-item-inner" alt="Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/fotos/simplon-3/preview_image" rel="gallery1" title="Photo">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/fotos/simplon-3/image_thumb)"></div> 
+            <div>Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Photo">
+        
+        <a class="pag-zoek-item-inner" alt="Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/fotos/simplon-4/preview_image" rel="gallery1" title="Photo">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/fotos/simplon-4/image_thumb)"></div> 
+            <div>Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Photo">
+        
+        <a class="pag-zoek-item-inner" alt="Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/fotos/simplon-5/preview_image" rel="gallery1" title="Photo">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/fotos/simplon-5/image_thumb)"></div> 
+            <div>Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Photo">
+        
+        <a class="pag-zoek-item-inner" alt="Moonlizards in Simplon - Jurgen Veenstra" href="https://www.poparchiefgroningen.nl/afbeeldingen/fotos/q0886.jpg/preview_image" rel="gallery1" title="Photo">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/fotos/q0886.jpg/image_thumb)"></div> 
+            <div>Moonlizards in Simplon - Jurgen Veenstra</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Photo">
+        
+        <a class="pag-zoek-item-inner" alt="Jurgen Veenstra in Moonlizards - Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/fotos/q0898.jpg/preview_image" rel="gallery1" title="Photo">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/fotos/q0898.jpg/image_thumb)"></div> 
+            <div>Jurgen Veenstra in Moonlizards - Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Photo">
+        
+        <a class="pag-zoek-item-inner" alt="Jurgen Veenstra in Moonlizards - Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/fotos/q0896.jpg/preview_image" rel="gallery1" title="Photo">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/fotos/q0896.jpg/image_thumb)"></div> 
+            <div>Jurgen Veenstra in Moonlizards - Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Photo">
+        
+        <a class="pag-zoek-item-inner" alt="Combo Knus &amp; Gezellig live in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/fotos/combo-knus-gezellig-live-in-simplon/preview_image" rel="gallery1" title="Photo">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/fotos/combo-knus-gezellig-live-in-simplon/image_thumb)"></div> 
+            <div>Combo Knus &amp; Gezellig live in Simplon</div>
+        </a>
+
+      </div>
+    
+
+                    </div>
+                     
+                
+            </span>
+            <span id="artwork" style="display: inline;">
+                
+                    <h2>Artwork</h2>
+                   <div class="pag-zoek-list">
+                    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche De Stipjes in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0005.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0005.jpg/image_thumb)"></div> 
+            <div>Affiche De Stipjes in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Treble Spankers in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0003.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0003.jpg/image_thumb)"></div> 
+            <div>Affiche Treble Spankers in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Stonewater in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0006.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0006.jpg/image_thumb)"></div> 
+            <div>Affiche Stonewater in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Captain Sensible in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0008.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0008.jpg/image_thumb)"></div> 
+            <div>Affiche Captain Sensible in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Over the Moon in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0004.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0004.jpg/image_thumb)"></div> 
+            <div>Affiche Over the Moon in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Simplon 15 jaar Jubileumweek 1992" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0016.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0016.jpg/image_thumb)"></div> 
+            <div>Affiche Simplon 15 jaar Jubileumweek 1992</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Simplon Algemeen" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0009.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0009.jpg/image_thumb)"></div> 
+            <div>Affiche Simplon Algemeen</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Claw Boys Claw in Simplon tijdens Jubileumweek 1992" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0018.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0018.jpg/image_thumb)"></div> 
+            <div>Affiche Claw Boys Claw in Simplon tijdens Jubileumweek 1992</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Carter in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0012.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0012.jpg/image_thumb)"></div> 
+            <div>Affiche Carter in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Gellysmash in Simplon 1995" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0019.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0019.jpg/image_thumb)"></div> 
+            <div>Affiche Gellysmash in Simplon 1995</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Gutterblast Open Air Festival tijdens Jubileumweek 1992" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0015.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0015.jpg/image_thumb)"></div> 
+            <div>Affiche Gutterblast Open Air Festival tijdens Jubileumweek 1992</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Wanda Chrome and the Leather Pharaos 1996" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0014.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0014.jpg/image_thumb)"></div> 
+            <div>Affiche Wanda Chrome and the Leather Pharaos 1996</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Luka Bloom in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0024.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0024.jpg/image_thumb)"></div> 
+            <div>Affiche Luka Bloom in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Da Zombi Squad in voorprogramma Stereo MC's in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0025.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0025.jpg/image_thumb)"></div> 
+            <div>Affiche Da Zombi Squad in voorprogramma Stereo MC's in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Paradise Lost in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0026.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0026.jpg/image_thumb)"></div> 
+            <div>Affiche Paradise Lost in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Shatterhole in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0022.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0022.jpg/image_thumb)"></div> 
+            <div>Affiche Shatterhole in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Jah Wobble and the Invaders of the Heart in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0011.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0011.jpg/image_thumb)"></div> 
+            <div>Affiche Jah Wobble and the Invaders of the Heart in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Nieuwe Swingavond in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0023.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0023.jpg/image_thumb)"></div> 
+            <div>Affiche Nieuwe Swingavond in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche 22 Pistepirkko in Simplon 1993" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0027.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0027.jpg/image_thumb)"></div> 
+            <div>Affiche 22 Pistepirkko in Simplon 1993</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Programmaposter Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0021.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0021.jpg/image_thumb)"></div> 
+            <div>Programmaposter Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Armand in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0034.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0034.jpg/image_thumb)"></div> 
+            <div>Affiche Armand in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Fotoexpositie van Martin Lambeek in Simplon 1993" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0030.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0030.jpg/image_thumb)"></div> 
+            <div>Affiche Fotoexpositie van Martin Lambeek in Simplon 1993</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Green Hornet in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0075.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0075.jpg/image_thumb)"></div> 
+            <div>Affiche Green Hornet in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Rock de Nijs in Simplon 1996" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0077.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0077.jpg/image_thumb)"></div> 
+            <div>Affiche Rock de Nijs in Simplon 1996</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche The Moonies in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0045.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0045.jpg/image_thumb)"></div> 
+            <div>Affiche The Moonies in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Pear in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0039.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0039.jpg/image_thumb)"></div> 
+            <div>Affiche Pear in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche SNFU in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0041.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0041.jpg/image_thumb)"></div> 
+            <div>Affiche SNFU in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche The Ex in Simplon 1995" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0052.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0052.jpg/image_thumb)"></div> 
+            <div>Affiche The Ex in Simplon 1995</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche THUD! en Big Drillcar in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0038.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0038.jpg/image_thumb)"></div> 
+            <div>Affiche THUD! en Big Drillcar in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Björn Again in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0007.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0007.jpg/image_thumb)"></div> 
+            <div>Affiche Björn Again in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Skinlärm in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0002.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0002.jpg/image_thumb)"></div> 
+            <div>Affiche Skinlärm in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche North-South Extravaganza" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0001.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0001.jpg/image_thumb)"></div> 
+            <div>Affiche North-South Extravaganza</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Simplon Theater - De Kleurenbak speelt Kronkels" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0013.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0013.jpg/image_thumb)"></div> 
+            <div>Affiche Simplon Theater - De Kleurenbak speelt Kronkels</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Jubileumweek in Simplon 1992 Filmnacht" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0017.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0017.jpg/image_thumb)"></div> 
+            <div>Affiche Jubileumweek in Simplon 1992 Filmnacht</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Gronings Politiek Muziekteater in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0020.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0020.jpg/image_thumb)"></div> 
+            <div>Affiche Gronings Politiek Muziekteater in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Liquid Cherry Child in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0029.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0029.jpg/image_thumb)"></div> 
+            <div>Affiche Liquid Cherry Child in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche huur een popoefenruimte" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0028.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0028.jpg/image_thumb)"></div> 
+            <div>Affiche huur een popoefenruimte</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Role-Play-Café in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0031.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0031.jpg/image_thumb)"></div> 
+            <div>Affiche Role-Play-Café in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Feest Vuurdoop" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0033.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0033.jpg/image_thumb)"></div> 
+            <div>Affiche Feest Vuurdoop</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Vuurdoop 21 in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0035.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0035.jpg/image_thumb)"></div> 
+            <div>Affiche Vuurdoop 21 in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Neurosis in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0040.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0040.jpg/image_thumb)"></div> 
+            <div>Affiche Neurosis in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Internal Putrefaction in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0042.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0042.jpg/image_thumb)"></div> 
+            <div>Affiche Internal Putrefaction in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Wiseguys, Chords &amp; Bronstgieters in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0037.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0037.jpg/image_thumb)"></div> 
+            <div>Affiche Wiseguys, Chords &amp; Bronstgieters in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Video kursus voor jongeren in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0036.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0036.jpg/image_thumb)"></div> 
+            <div>Affiche Video kursus voor jongeren in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Dino-Dag in Simplon (met Benjamin B)" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0049.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0049.jpg/image_thumb)"></div> 
+            <div>Affiche Dino-Dag in Simplon (met Benjamin B)</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche New Fast Automatic Daffodils in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0047.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0047.jpg/image_thumb)"></div> 
+            <div>Affiche New Fast Automatic Daffodils in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Fools Can Dance in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0044.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0044.jpg/image_thumb)"></div> 
+            <div>Affiche Fools Can Dance in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Anti-Pasti in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0043.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0043.jpg/image_thumb)"></div> 
+            <div>Affiche Anti-Pasti in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Vuurdoop in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0046.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0046.jpg/image_thumb)"></div> 
+            <div>Vuurdoop in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Simplon groepenpresentatie KRO Rock Tempel" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0056.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0056.jpg/image_thumb)"></div> 
+            <div>Affiche Simplon groepenpresentatie KRO Rock Tempel</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Music Treffen Groningen Bremen" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0058.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0058.jpg/image_thumb)"></div> 
+            <div>Affiche Music Treffen Groningen Bremen</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche The Mountain Goats in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0050.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0050.jpg/image_thumb)"></div> 
+            <div>Affiche The Mountain Goats in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche The Cropdusters in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0055.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0055.jpg/image_thumb)"></div> 
+            <div>Affiche The Cropdusters in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Quest for fire" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0048.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0048.jpg/image_thumb)"></div> 
+            <div>Quest for fire</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Simplon's Fun Club" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0073.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0073.jpg/image_thumb)"></div> 
+            <div>Affiche Simplon's Fun Club</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche The Tubes in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0062.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0062.jpg/image_thumb)"></div> 
+            <div>Affiche The Tubes in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Soon in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0054.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0054.jpg/image_thumb)"></div> 
+            <div>Affiche Soon in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Swingavond in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0057.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0057.jpg/image_thumb)"></div> 
+            <div>Affiche Swingavond in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Headless Horsemen in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0065.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0065.jpg/image_thumb)"></div> 
+            <div>Affiche Headless Horsemen in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Smog in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0068.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0068.jpg/image_thumb)"></div> 
+            <div>Affiche Smog in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Gutterking in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0060.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0060.jpg/image_thumb)"></div> 
+            <div>Affiche Gutterking in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Thelonious Monster in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0064.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0064.jpg/image_thumb)"></div> 
+            <div>Affiche Thelonious Monster in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Hell On Wheels en Sexy Dex in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0059.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0059.jpg/image_thumb)"></div> 
+            <div>Affiche Hell On Wheels en Sexy Dex in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Pale in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0069.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0069.jpg/image_thumb)"></div> 
+            <div>Affiche Pale in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Swingavond in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0074.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0074.jpg/image_thumb)"></div> 
+            <div>Affiche Swingavond in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche The Lolitas in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0117.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0117.jpg/image_thumb)"></div> 
+            <div>Affiche The Lolitas in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Sjchroumpf! in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0104.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0104.jpg/image_thumb)"></div> 
+            <div>Affiche Sjchroumpf! in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Buzzcocks in Simplon (1993)" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0093.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0093.jpg/image_thumb)"></div> 
+            <div>Affiche Buzzcocks in Simplon (1993)</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Ascona Brothers, Pear en PAR-64 in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0070.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0070.jpg/image_thumb)"></div> 
+            <div>Affiche Ascona Brothers, Pear en PAR-64 in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Psychodisco in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0076.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0076.jpg/image_thumb)"></div> 
+            <div>Affiche Psychodisco in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Rockin' Belly en The Blue Dots in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0061.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0061.jpg/image_thumb)"></div> 
+            <div>Affiche Rockin' Belly en The Blue Dots in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche 'Een gezellig avondje hobbyrock' in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0067.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0067.jpg/image_thumb)"></div> 
+            <div>Affiche 'Een gezellig avondje hobbyrock' in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Dr. Phybes in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0083.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0083.jpg/image_thumb)"></div> 
+            <div>Affiche Dr. Phybes in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Swingavond in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0082.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0082.jpg/image_thumb)"></div> 
+            <div>Affiche Swingavond in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Simplon kalender 1986" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0080.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0080.jpg/image_thumb)"></div> 
+            <div>Affiche Simplon kalender 1986</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Caveman en D-A-M-N in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0071.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0071.jpg/image_thumb)"></div> 
+            <div>Affiche Caveman en D-A-M-N in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Sultans of Ping F.C. en Lunachicks in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0089.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0089.jpg/image_thumb)"></div> 
+            <div>Affiche Sultans of Ping F.C. en Lunachicks in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Txo Txo in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0078.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0078.jpg/image_thumb)"></div> 
+            <div>Affiche Txo Txo in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Fishy Friends in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0101.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0101.jpg/image_thumb)"></div> 
+            <div>Affiche Fishy Friends in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche The Wolfgang Press in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0110.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0110.jpg/image_thumb)"></div> 
+            <div>Affiche The Wolfgang Press in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Buzz Aldrin in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0120.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0120.jpg/image_thumb)"></div> 
+            <div>Affiche Buzz Aldrin in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Benjamin B. in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0136.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0136.jpg/image_thumb)"></div> 
+            <div>Affiche Benjamin B. in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Gravediggers in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0100.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0100.jpg/image_thumb)"></div> 
+            <div>Affiche Gravediggers in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Eddie and the Hot Rods in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0118.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0118.jpg/image_thumb)"></div> 
+            <div>Affiche Eddie and the Hot Rods in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Swingavond in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0129.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0129.jpg/image_thumb)"></div> 
+            <div>Affiche Swingavond in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Tar Babies in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0140.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0140.jpg/image_thumb)"></div> 
+            <div>Affiche Tar Babies in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche The Stiffs in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0097.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0097.jpg/image_thumb)"></div> 
+            <div>Affiche The Stiffs in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Mucky Pup in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0113.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0113.jpg/image_thumb)"></div> 
+            <div>Affiche Mucky Pup in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Social Intention in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0125.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0125.jpg/image_thumb)"></div> 
+            <div>Affiche Social Intention in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche The Bloods en No Song Kutkotz in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0085.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0085.jpg/image_thumb)"></div> 
+            <div>Affiche The Bloods en No Song Kutkotz in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Afflict in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0092.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0092.jpg/image_thumb)"></div> 
+            <div>Affiche Afflict in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Nova Mob (met Grant Hart) in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0141.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0141.jpg/image_thumb)"></div> 
+            <div>Affiche Nova Mob (met Grant Hart) in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Lee Ranaldo (Sonic Youth) en Kleg in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0137.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0137.jpg/image_thumb)"></div> 
+            <div>Affiche Lee Ranaldo (Sonic Youth) en Kleg in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Puurpunk en Scophile in Simplon" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0096.jpg/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/ab2695-0096.jpg/image_thumb)"></div> 
+            <div>Affiche Puurpunk en Scophile in Simplon</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Affiche Boegies in Simplon, 2-5-1981" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/affiche-boegies-in-simplon-2-5-1981/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/affiche-boegies-in-simplon-2-5-1981/image_thumb)"></div> 
+            <div>Affiche Boegies in Simplon, 2-5-1981</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Popburo" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/popburo-5/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/popburo-5/image_thumb)"></div> 
+            <div>Popburo</div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Popburo " href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/popburo-7/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/popburo-7/image_thumb)"></div> 
+            <div>Popburo </div>
+        </a>
+
+      </div>
+    
+    
+      <div class="pag-zoek-item pag-Artwork">
+        
+        <a class="pag-zoek-item-inner" alt="Moonshine affiesje" href="https://www.poparchiefgroningen.nl/afbeeldingen/artwork/moonshine-affiesje/preview_image" rel="gallery1" title="Artwork">
+            
+            <div class="item-image" style="background-image: url(https://www.poparchiefgroningen.nl/afbeeldingen/artwork/moonshine-affiesje/image_thumb)"></div> 
+            <div>Moonshine affiesje</div>
+        </a>
+
+      </div>
+    
+
+                    </div>
+                     
+                
+            </span>
+            <span id="overige" style="display: none;">
+                
+                    <h2>Overige</h2>
+                   
+                     <p> Geen overige gevonden</p>
+                
+            </span>
+        </div>
+
+
+
+    
+            </div></div>
+                
+        
+                                    </div>
+                                
+
+                                
+                            </div>
+                        
+
+                        <div id="viewlet-below-content">
+
+
+
+
+
+</div>
+                    </div>
+                     
+                </div>
+
+
+                <div id="pag-footer" class="row">
+                    
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-45708548-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+                    <div class="row">
+                      <div class="cell width-full position-0">
+
+                          <div id="portal-footer">
+                            <p>Copyright <abbr title="Copyright">©</abbr> 2014 <a class="highlight" href="/over-poparchief">Poparchief Groningen</a></p>
+                              <p>Alle rechten voorbehouden</p>
+
+                              
+                          </div>
+
+                      </div>
+                    </div>                    
+                    
+                    <div id="kss-spinner">
+                        <img alt="" src="https://www.poparchiefgroningen.nl/spinner.gif">
+                    </div>
+                </div>
+
+            </div>
+        
+    
+
+
+  
+<div id="fancybox-tmp" style="padding: 50px;"></div><div id="fancybox-loading" style="display: none;"><div style="top: -320px;"></div></div><div id="fancybox-overlay" style="background-color: rgb(119, 119, 119); opacity: 0.7; cursor: pointer; height: 4004px; display: none;"></div><div id="fancybox-wrap" style="width: 820px; height: auto; top: 2803px; left: 523px; display: none;"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content" style="border-width: 10px; width: 800px; height: 400px; opacity: 1;"></div><a id="fancybox-close" style="display: none;"></a><div id="fancybox-title" style="display: none;"></div><a href="javascript:;" id="fancybox-left" style="display: none;"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right" style="display: none;"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
