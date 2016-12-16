@@ -1,8 +1,6 @@
 import urllib.request
 from bs4 import BeautifulSoup
 import re
-import time
-import progressbar
 
 #html = urlopen("https://www.poparchiefgroningen.nl/podia/simplon/view")
 def getLinks():
@@ -34,19 +32,11 @@ def getLinks():
 
 
 n = 0
-strLength = len(getLinks())
-bar = progressbar.ProgressBar(max_value=strLength,redirect_stdout=True)
-
-
-print(str(strLength)+" Objects")
-
 for a in getLinks():
     url = a
     # image = url.rsplit('/', 1)[1]
     urllib.request.urlretrieve(url, str(n)+'.jpg')
     n = n + 1
-    print("Downloading "+str(n)+".jpg")
-    bar.update(n)
 
     
 # print("type getLinks: "+type(getLinks()))
